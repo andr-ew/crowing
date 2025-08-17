@@ -1,6 +1,7 @@
--- 4 octaves if sines at the 4 outs
+-- 3 octaves if sines at 2-3
 -- in 1: v/oct
 -- in 2: fine tune
+-- input 1 (v/oct) precision multed at output 1
 
 v = { 0, 0 }
 
